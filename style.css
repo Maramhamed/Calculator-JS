@@ -1,0 +1,52 @@
+body {
+  background-color: #f2f2f2;
+  background-image: linear-gradient(to bottom right, #b2ebf2, #e1bee7);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.container{
+  width: 500px;
+  padding-top: 100px;
+  margin: auto;
+    background-color: #f2f2f2;
+    background-image: linear-gradient(to bottom right, #b2ebf2, #e1bee7);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+
+
+.showresult{
+  border:  1px solid  #AFAFAF;
+  width: 420px;
+  height: 50px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+table, th, td {
+  border:  1px solid  #AFAFAF;
+  border-collapse: collapse;
+  font-size: 16px;
+
+}
+th, td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+ input{
+  width:100px; /* Adjust the width as per your requirement */
+  height: 80px; /* Allow the button to adjust its height based on content */
+  padding: 10px; 
+  font-size: larger;
+}
+
+
+
+
+
